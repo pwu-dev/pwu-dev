@@ -2,7 +2,7 @@
 ------ MY GITHUB PAGE IS BEING UPDATED ------
 ---------------------------------------------
 
-- 👋 Hi, I’m @pwu-dev
+- 👋 Hi, I’m Philippe WU
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer Science at Engineering School INP-ENSEEIHT, located in Toulouse
 - 💞️ I’m looking for an internship on Data Science from 01/06/23 to 20/09/23

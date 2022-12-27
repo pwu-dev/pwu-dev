@@ -1,3 +1,7 @@
+---------------------------------------------
+------ MY GITHUB PAGE IS BEING UPDATED ------
+---------------------------------------------
+
 - 👋 Hi, I’m @pwu-dev
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer Science at Engineering School INP-ENSEEIHT, located in Toulouse

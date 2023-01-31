@@ -1,4 +1,8 @@
-# <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" /> Welcome to my github profil !  
+<div align="center">
+<h1>
+<img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" /> Welcome to my github profil !
+</h1>
+</div>
 
 # 🏳️ My banner is not ready yet
 

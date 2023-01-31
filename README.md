@@ -1,6 +1,8 @@
 <div align="center">
 <h1>
-<img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" /> Welcome to my github profil !
+<img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" /> 
+  Welcome to my github profil !
+<img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" />
 </h1>
 </div>
 

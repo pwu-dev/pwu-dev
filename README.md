@@ -1,3 +1,5 @@
+# Welcome to my github profil ! <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" /> 
+
 # My banner is not ready yet
 
 ## About Me

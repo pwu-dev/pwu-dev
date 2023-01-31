@@ -2,15 +2,8 @@
 
 # My banner is not ready yet
 
-Student: "#x9d1;"
-Student hat: "#x393;"
-Fire: "#x525;"
-Brain: "#x9e0;"
-Professional man: "#x574;"
-Goal: "#x9af;"
-100%: "#x4af;"
 
-## &#x9d1; About Me
+## 👨‍🎓 About Me
 
 - &#x393; Current situation : 1st year of my master’s degree in Computer Science at INP-ENSEEIHT (Toulouse, France flag)
 - &#x525; Passionate about Data Science. I am determined to develop my skills in this area. Autonomous and committed by nature, I enjoy working in a challenging environment

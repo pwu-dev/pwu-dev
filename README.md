@@ -1,14 +1,14 @@
 <div align="center">
 <h1> 
-  ----------
+  -------------
 <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" /> 
-  Welcome to my github profil !
+   Welcome to my Github profil ! 
 <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/wave.gif" width="30px" height="30px" />
-  ----------
+  -------------
 </h1> 
 </div>
 
-# 🏳️ My banner is not ready yet
+## 🏳️ My banner is not ready yet
 
 
 ## 👨‍🎓 About Me

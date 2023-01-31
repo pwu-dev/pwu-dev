@@ -4,7 +4,7 @@
 
 
 ## 👨‍🎓 About Me
-
+<p style="font-size:100px">&#129409;</p>
 -  <p style="font-size:50px">🏫</p> Current situation : 1st year of my master’s degree in Computer Science at INP-ENSEEIHT (Toulouse, France flag)
 - 🔥 Passionate about Data Science. I am determined to develop my skills in this area. Autonomous and committed by nature, I enjoy working in a challenging environment
 - 📖 Currently learning : OpenMP, Mobile Programming, Web App, Databases, LTA+

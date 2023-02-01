@@ -55,8 +55,6 @@
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/android_studio.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
-</p>
-<p align="left">
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 </p>

@@ -12,10 +12,11 @@
 
 
 ## 👨‍🎓 About Me
-- 🏫 Current situation : 1st year of my master’s degree in Computer Science at INP-ENSEEIHT (Toulouse, 🇫🇷)
-- 🔥 Passionate about Data Science. I am determined to develop my skills in this area. Autonomous and committed by nature, I enjoy working in a challenging environment
-- 📖 Currently learning : OpenMP, Mobile Programming, Web App, Databases, LTA+
-- 👨‍💼 My job target : Data Scientist in 🇨🇭 
+- 🏫 <b>Current situation</b> : <code>1st year of my master’s degree</code> in Computer Science at INP-ENSEEIHT (Toulouse, 🇫🇷)
+- 🔥 Passionate about <b>Data Science</b>. I am determined to develop my skills in this area. <code>Autonomous and committed</code> by nature, I enjoy working in a challenging environment
+- 📖 <b>Currently learning</b> : <code>OpenMP, Mobile Programming, Web App, Databases, LTA+</code>
+- 👨‍💼 <b>My job target</b> : <code>Data Scientist</code> in 🇨🇭 
+- 📫 How to reach me : 
 
 ## 🎯 My 2023 Goals 
 

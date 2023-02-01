@@ -31,6 +31,11 @@
 
 ## 👨‍💻 Languages & Technologies
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/python.svg" alt="python" style="vertical-align:top; margin:4px">
+</p>
+
 - Java, Julia, OCaml, C
 - Python, Matlab, SQL
 - Assembly, LateX, Markdown
@@ -40,17 +45,27 @@
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
+
+
+
 ## 💻 Operating System & Tools
 
+[![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/vscode.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/android_studio.svg" alt="androidstudio" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+</p>
+
+<!-- 
 - MacOS Monterey, Linux
 - IDE : VSCode, Android Studio, Eclipse
-- GPLK (solver), Jupyter, Bash (Shell)
-
-[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
-
-[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+- GPLK (solver), Jupyter, Bash (Shell) 
+-->
 
 ## 🎒 School Projects 
 

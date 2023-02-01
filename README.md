@@ -9,7 +9,7 @@
 </div>
 
 ## 🏳️ My banner is not ready yet
-
+<br>
 
 ## 👨‍🎓 About Me
 - 🏫 <b>Current situation</b> : <code>1st year of my master’s degree</code> in Computer Science at INP-ENSEEIHT (Toulouse, 🇫🇷)
@@ -18,7 +18,7 @@
 - 👨‍💼 <b>My job target</b> : <code>Data Scientist</code> in 🇨🇭 
 - 📫 How to reach me : <a href="mailto: pwu.in42@gmail.com">pwu.in42@gmail.com</a>
 - <a href="https://www.linkedin.com/in/pwu-n7/" title="LinkedIn Profile"><img width="15" src="svg/linkedin.svg"> LinkedIn</a>
-
+<br>
 
 ## 🎯 My 2023 Goals 
 
@@ -31,6 +31,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+<br><br>
 
 <!-- 
 -  manque Seaborn
@@ -42,6 +43,7 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
       <img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="140" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg" alt="ocaml" width="130" height="80"/>
 </p>
+<br>
 
 ## 👨‍💻 Languages & Technologies
 
@@ -59,10 +61,11 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 
   </p>
-
+<br>
 <!-- 
 - manque Matlab et Ada
 -->
+
 
 ## 💻 Operating System & Tools
 
@@ -74,11 +77,12 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/vmware.svg" alt="vmware" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
 </p>
-
+<br>
 <!-- 
 - manque Linux
 - GPLK (solver)
 -->
+
 
 ## 🎒 School Projects 
 

@@ -26,6 +26,14 @@
 
 - Java, Julia, OCaml
 
+
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="130" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="130" height="80"/>
+      <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg" alt="ocaml" width="120" height="90"/>
+</p>
+
 ## 👨‍💻 Languages & Technologies
 
 - Java, Julia, OCaml, C

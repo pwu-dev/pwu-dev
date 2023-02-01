@@ -82,8 +82,17 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
 
 ## 🎒 School Projects 
 
+<div width="100%">
+  <a href="https://github.com/pwu-dev/solving-Knapsack-problem" title="solving-Knapsack-problem"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pwu-dev&repo=solving-Knapsack-problem&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/pwu-dev/Epidemic-Spread-Modeling" title="Epidemic-Spread-Modeling"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pwu-dev&repo=Epidemic-Spread-Modeling&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a href="https://github.com/pwu-dev/process-model-verification-chain" title="process-model-verification-chain"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pwu-dev&repo=process-model-verification-chain&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+
+<!-- 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/pwu-dev/solving-Knapsack-problem" title="solving-Knapsack-problem"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pwu-dev&repo=solving-Knapsack-problem&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/pwu-dev/Epidemic-Spread-Modeling" title="Epidemic-Spread-Modeling"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pwu-dev&repo=Epidemic-Spread-Modeling&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/pwu-dev/Epidemic-Spread-Modeling" title="Epidemic-Spread-Modeling"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pwu-dev&repo=Epidemic-Spread-Modeling&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+-->
+
 

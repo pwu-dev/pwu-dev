@@ -8,10 +8,10 @@
 </h1> 
 </div>
 
-# 🏳️ My banner is not ready yet
+## 🏳️ My banner is not ready yet
 
 
-# 👨‍🎓 About Me
+## 👨‍🎓 About Me
 - 🏫 Current situation : 1st year of my master’s degree in Computer Science at INP-ENSEEIHT (Toulouse, 🇫🇷)
 - 🔥 Passionate about Data Science. I am determined to develop my skills in this area. Autonomous and committed by nature, I enjoy working in a challenging environment
 - 📖 Currently learning : OpenMP, Mobile Programming, Web App, Databases, LTA+
@@ -33,15 +33,14 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
 -  manque Seaborn
 -->
 
-
-# 💯 Most Used Languages
+## 💯 Most Used Languages
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="130" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="140" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg" alt="ocaml" width="130" height="80"/>
 </p>
 
-# 👨‍💻 Languages & Technologies
+## 👨‍💻 Languages & Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/java.svg" alt="java" style="vertical-align:top; margin:4px">
@@ -62,7 +61,7 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
 - manque Matlab
 -->
 
-# 💻 Operating System & Tools
+## 💻 Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
 <p align="left">
@@ -78,7 +77,7 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
 - GPLK (solver)
 -->
 
-# 🎒 School Projects 
+## 🎒 School Projects 
 
 
 

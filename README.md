@@ -8,28 +8,40 @@
 </h1> 
 </div>
 
-## 🏳️ My banner is not ready yet
+# 🏳️ My banner is not ready yet
 
 
-## 👨‍🎓 About Me
+# 👨‍🎓 About Me
 - 🏫 Current situation : 1st year of my master’s degree in Computer Science at INP-ENSEEIHT (Toulouse, 🇫🇷)
 - 🔥 Passionate about Data Science. I am determined to develop my skills in this area. Autonomous and committed by nature, I enjoy working in a challenging environment
 - 📖 Currently learning : OpenMP, Mobile Programming, Web App, Databases, LTA+
 - 👨‍💼 My job target : Data Scientist in 🇨🇭 
 
-## 🎯 My 2023 Goals 
+# 🎯 My 2023 Goals 
 
-- NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch
-- Compete in Kaggle
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## 💯 Most Used Languages
+Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
+<!-- 
+-  manque Seaborn
+-->
+
+
+# 💯 Most Used Languages
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="130" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="140" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg" alt="ocaml" width="130" height="80"/>
 </p>
 
-## 👨‍💻 Languages & Technologies
+# 👨‍💻 Languages & Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/java.svg" alt="java" style="vertical-align:top; margin:4px">
@@ -48,12 +60,9 @@
 
 <!-- 
 - manque Matlab
-- Java, Julia, OCaml, C
-- Python, Matlab, SQL
-- Assembly, LateX, Markdown
 -->
 
-## 💻 Operating System & Tools
+# 💻 Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
 <p align="left">
@@ -65,12 +74,11 @@
 </p>
 
 <!-- 
-- MacOS Monterey, Linux
-- IDE : VSCode, Android Studio, Eclipse
-- GPLK (solver), Jupyter, Bash (Shell) 
+- manque Linux
+- GPLK (solver)
 -->
 
-## 🎒 School Projects 
+# 🎒 School Projects 
 
 
 

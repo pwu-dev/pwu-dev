@@ -18,7 +18,7 @@
 - 👨‍💼 <b>My job target</b> : <code>Data Scientist</code> in 🇨🇭 
 - 📫 How to reach me : <a href="mailto: pwu.in42@gmail.com">pwu.in42@gmail.com</a>
 - <a href="https://www.linkedin.com/in/pwu-n7/" title="LinkedIn Profile"><img width="15" src="svg/linkedin.svg"> LinkedIn</a>
-<br>
+
 
 ## 🎯 My 2023 Goals 
 
@@ -43,7 +43,7 @@ Compete in : ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-
       <img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="140" height="80"/>
       <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg" alt="ocaml" width="130" height="80"/>
 </p>
-<br>
+
 
 ## 👨‍💻 Languages & Technologies
 

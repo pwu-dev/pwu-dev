@@ -26,7 +26,7 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="130" height="70"/> 
       <img src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg" alt="julia" width="140" height="80"/>
-      <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg" alt="ocaml" width="130" height="90"/>
+      <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg" alt="ocaml" width="130" height="80"/>
 </p>
 
 ## 👨‍💻 Languages & Technologies
@@ -36,17 +36,22 @@
   <img src="https://raw.githubusercontent.com/pwu-dev/pwu-dev/master/svg/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
 
+  <p>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+
+  </p>
+
+<!-- 
+- manque Matlab
 - Java, Julia, OCaml, C
 - Python, Matlab, SQL
 - Assembly, LateX, Markdown
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-
-
-
+-->
 
 ## 💻 Operating System & Tools
 

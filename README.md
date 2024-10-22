@@ -8,14 +8,14 @@
 </h1> 
 </div>
 
-## 🏳️ My banner is not ready yet
+## 🏳️ My Github is not updated yet
 <br>
 
 ## 👨‍🎓 About Me
 - 🏫 <b>Current situation</b> : <code>1st year of my master’s degree</code> in Computer Science at INP-ENSEEIHT (Toulouse, 🇫🇷)
 - 🔥 Passionate about <b>Data Science</b>. I am determined to develop my skills in this area. <code>Autonomous and committed</code> by nature, I enjoy working in a challenging environment
 - 📖 <b>Currently learning</b> : <code>OpenMP, Mobile Programming, Web App, Databases, LTA+</code>
-- 👨‍💼 <b>My job target</b> : <code>Data Scientist</code> in 🇨🇭 or in 🇫🇷 (Toulouse)
+- 👨‍💼 <b>My job target</b> : <code>Data Scientist</code> in Toulouse 🇫🇷
 - 📫 How to reach me : <a href="mailto: pwu.in42@gmail.com">pwu.in42@gmail.com</a>
 - <a href="https://www.linkedin.com/in/pwu-n7/" title="LinkedIn Profile"><img width="15" src="svg/linkedin.svg"> LinkedIn</a>
 
